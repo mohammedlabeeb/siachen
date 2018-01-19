@@ -1,0 +1,4 @@
+.banner .container{min-height:180px !important;}
+.container{width:1098px !important}
+.btn-primary, .btn-primary:hover, .btn-primary:focus{background: #45484c;}
+.btn-default, .btn-default:hover, .btn-default:focus{background: #fd1900;}
